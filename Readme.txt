@@ -19,3 +19,19 @@ Zadanie 4:
 - Wype³nij tablicê liczbami losowymi
 - Pobierz od u¿ytkownika wartoœæ
 - Nastêpnie wyœwietl informacjê pod którym indeksem liczba bêdzie wstawiona aby zachowaæ kolejnoœæ rosn¹c¹
+
+Zadanie 5:
+-Zaimplementuj metodê umo¿liwiaj¹c¹ dodawanie "pisemne" liczb przy wykorzystaniu tablic
+- Metoda przyjmuje: dwu-wymiarow¹ tablicê typu int
+- Zwraca jednowymiarow¹ tablicê typu int (wiersz z wynikiem)
+
+Zadanie6:
+-Zaimplementuj algorytm RLE (Run Length Encoding) - najprostszy z algorytmów bezstratnej kompresji danych.
+-Przyk³adowe dane wejœciowe:						Przyk³adowe dane wejœciowe:
+	
+	MRRRRRRRRRZZSAAAA								AAAAAAAAAABBBBBCCCCCDDDDDDDDDD
+	Wynik:											Wynik:	
+	MR;9;Z;2;S;1;A;4;									A;10;B;5;C;5;D;10;
+
+
+
