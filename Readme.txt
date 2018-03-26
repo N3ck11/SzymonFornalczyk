@@ -27,11 +27,8 @@ Zadanie 5:
 
 Zadanie6:
 -Zaimplementuj algorytm RLE (Run Length Encoding) - najprostszy z algorytmów bezstratnej kompresji danych.
--Przyk³adowe dane wejœciowe:						Przyk³adowe dane wejœciowe:
-	
-	MRRRRRRRRRZZSAAAA								AAAAAAAAAABBBBBCCCCCDDDDDDDDDD
-	Wynik:											Wynik:	
-	MR;9;Z;2;S;1;A;4;									A;10;B;5;C;5;D;10;
-
-
+-Przyk³adowe dane wejœciowe:
+MRRRRRRRRRZZSAAAA
+Wynik:
+MR;9;Z;2;S;1;A;4;
 
